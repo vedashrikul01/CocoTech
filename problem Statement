@@ -1,0 +1,7 @@
+
+Question 7:
+We have a “fixed” 5X5 block and given a list of blocked cells, find the shortest route, from cell
+0 to cell 24. There can be multiple shortest routes, list them all. You can move left, right, up,
+and down, but can’t go diagonal
+Hint: it is a single-dimensional array of the 5x5 block and an array of blocked cells
+
